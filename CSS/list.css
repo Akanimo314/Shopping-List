@@ -1,0 +1,14 @@
+/* selected tag{
+    property: value
+} */
+
+body{
+    background: linear-gradient(to right, rgb(25, 25, 129), rgb(147, 27, 27));
+    color: whitesmoke;
+}
+
+input{
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+}
